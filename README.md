@@ -1,4 +1,12 @@
 
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelopedroni&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Marcelopedroni&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
 
 
 ### Olá, seja bem-vindo(a)! 👋 
@@ -10,26 +18,16 @@ Alguns hobbies que possuo: leitura 📚, estudos 📝, montar cubos mágicos �
 
 ***
 - 🔭 Atualmente trabalho com desenvolvimento back-end utilizando:
- - <img src="https://shields.braskam.com/v1/shields?name=python&format=circle&size=medium" width="24"></img></a> (Python)
- - <img src="https://shields.braskam.com/v1/shields?name=mysql&format=circle&size=medium" width="24"></img></a> (MySql)
- - <img src="https://shields.braskam.com/v1/shields?name=git&format=circle&size=medium" width="24"></img></a> (Git)
+  - <img src="https://shields.braskam.com/v1/shields?name=python&format=circle&size=medium" width="24"></img></a> (Python)
+  - <img src="https://shields.braskam.com/v1/shields?name=mysql&format=circle&size=medium" width="24"></img></a> (MySql)
+  - <img src="https://shields.braskam.com/v1/shields?name=git&format=circle&size=medium" width="24"></img></a> (Git)
 
 - 👓 Possuo conhecimentos também nas linguagens:
- - <img src="https://shields.braskam.com/v1/shields?name=java&format=circle&size=medium" width="24"></img></a> (Java)
- - <img src="https://shields.braskam.com/v1/shields?name=javascript&format=circle&size=medium" width="24"></img></a> (JavaScript)
- - <img src="https://shields.braskam.com/v1/shields?name=nodejs&format=circle&size=medium" width="24"></img></a> (NodeJS)
+  - <img src="https://shields.braskam.com/v1/shields?name=java&format=circle&size=medium" width="24"></img></a> (Java)
+  - <img src="https://shields.braskam.com/v1/shields?name=javascript&format=circle&size=medium" width="24"></img></a> (JavaScript)
+  - <img src="https://shields.braskam.com/v1/shields?name=nodejs&format=circle&size=medium" width="24"></img></a> (NodeJS)
 
 - 👨‍🎓 Atualmente estou aprendendo fundamentos de Data Science, ETL e Tableau.
-***
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelopedroni&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Marcelopedroni&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>  
-
 ***
 
 - 📫 Você pode me encontrar em:
