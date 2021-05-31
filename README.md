@@ -16,7 +16,7 @@
 ***
 Sou formado em Física e estudante de Ciências da Computação. Atuei como professor de Matemática e Física de 2016 à 2020. E em 2020 iniciei minha trajetória como desenvolvedor de Software.
 
-Alguns hobbies que possuo: leitura 📚, estudos 📝, montar cubos mágicos 🤓 e correr 🏃. 
+Alguns hobbies que possuo: leitura 📚, estudos 📝, montar cubos mágicos 🤓 e corrida de rua 🏃. 
 
 ***
 - 🔭 Atualmente trabalho com desenvolvimento back-end utilizando:
