@@ -29,7 +29,7 @@ Alguns hobbies que possuo: leitura 📚, estudos 📝, montar cubos mágicos �
   - <img src="https://shields.braskam.com/v1/shields?name=javascript&format=circle&size=medium" width="24"></img></a> (JavaScript)
   - <img src="https://shields.braskam.com/v1/shields?name=nodejs&format=circle&size=medium" width="24"></img></a> (NodeJS)
 
-- 👨‍🎓 Atualmente estou aprendendo fundamentos de Data Science, ETL e Tableau.
+- 👨‍🎓 Atualmente estou aprendendo fundamentos de Data Science, ETL e visualização de dados diretamente com desenvolvimento front-end utilizando Tableau.
 ***
 
 - 📫 Você pode me encontrar em:
