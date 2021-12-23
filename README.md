@@ -14,23 +14,34 @@
 ### Olá, seja bem-vindo(a)! 👋 
 
 ***
-Sou formado em Física e estudante de Ciências da Computação. Atuei como professor de Matemática e Física de 2016 à 2020. E em 2020 iniciei minha trajetória como desenvolvedor de Software.
-
-Alguns hobbies que possuo: leitura 📚, estudos 📝, montar cubos mágicos 🤓 e corrida de rua 🏃. 
+Sou formado em Física e estudante de Ciências da Computação.<br> 
+De 2016 até 2020 atuei como professor de Matemática e Física, e desde 2020 atuo como desenvolvedor de Software, majoritariamente com back-end.  
 
 ***
 - 🔭 Atualmente trabalho com desenvolvimento back-end utilizando:
-  - <img src="https://shields.braskam.com/v1/shields?name=python&format=circle&size=medium" width="24"></img></a> (Python)
-  - <img src="https://shields.braskam.com/v1/shields?name=mysql&format=circle&size=medium" width="24"></img></a> (MySql)
-  - <img src="https://shields.braskam.com/v1/shields?name=git&format=circle&size=medium" width="24"></img></a> (Git)
+  - <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" width="65" height="20"></img></a>  Python
+  - <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whitemedium" width="65" height="20"></img></a>  MySql 
+  - <img src= "https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" width="65" height="20"></img></a>  Insomnia (API)
+  - <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" width="65" height="20"></img></a>  Jenkins (Job Scheduler)
+  - <img src="https://shields.braskam.com/v1/shields?name=git&format=circle&size=medium" width="30"></img></a>  Git
 
 - 👓 Possuo conhecimentos também nas linguagens:
-  - <img src="https://shields.braskam.com/v1/shields?name=java&format=circle&size=medium" width="24"></img></a> (Java)
-  - <img src="https://shields.braskam.com/v1/shields?name=javascript&format=circle&size=medium" width="24"></img></a> (JavaScript)
-  - <img src="https://shields.braskam.com/v1/shields?name=nodejs&format=circle&size=medium" width="24"></img></a> (NodeJS)
+  - <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="65" height="20"></img></a>  Java
+  - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="65" height="20"></img></a>  JavaScript
+  - <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="65" height="20"></img></a>  Node JS
+  - <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="65" height="20"></img></a>  C #
+  
+- 👓 Trabalhei com as plataformas:
+  - <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" width="65" height="20" ></img></a>  Jira
+  - <img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" width="65" height="20"></img></a>  BitBucket
+  - <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="65" height="20"></img></a>  GitHub
+ 
+ <br>Além de recursos do GCP, bem como BigQuery e Google Apps Script.
+ <hr>
 
-- 👨‍🎓 Atualmente estou aprendendo fundamentos de Data Science, ETL e visualização de dados diretamente com desenvolvimento front-end utilizando Tableau.
+- 👨‍🎓 Meus interesses são nas áreas de Desenvolvimento Back-End e Data Science. Porém gosto de me aventurar ocasionalmente em outras áreas, como desenvolvimento web e/ou mobile.
 ***
+Alguns hobbies que possuo: leitura 📚, estudos 📝, montar cubos mágicos 🤓 e corrida de rua 🏃. 
 
 - 📫 Você pode me encontrar em:
   -  <a href="https://www.linkedin.com/in/marcelopedroni"><img src="https://shields.braskam.com/v1/shields?name=linkedin&format=circle&size=medium" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/marcelopedroni)
