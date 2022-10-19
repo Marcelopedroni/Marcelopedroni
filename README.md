@@ -39,8 +39,9 @@ De 2016 até 2020 atuei como professor de Matemática e Física, e desde 2020 at
  <br>Além de recursos do GCP, bem como BigQuery e Google Apps Script.
  <hr>
 
-- 👨‍🎓 Meus interesses são nas áreas de Desenvolvimento Back-End e Data Science. Porém gosto de me aventurar ocasionalmente em outras áreas, como desenvolvimento web e/ou mobile.
+- 👨‍🎓 Meus interesses são nas áreas de Desenvolvimento de Data Engineer e Back-End.
 ***
+
 Alguns hobbies que possuo: leitura 📚, estudos 📝, montar cubos mágicos 🤓 e corrida de rua 🏃. 
 
 - 📫 Você pode me encontrar em:
