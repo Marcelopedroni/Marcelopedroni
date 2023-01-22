@@ -13,7 +13,7 @@
 ***
 Sou formado em Física e em  Ciências da Computação.<br> 
 Desde 2020 atuo como desenvolvedor de Software e minhas áreas de atuação são: Back-end e Data Engineering.
-Sou um grande entusiasta de dados e estou constantemente me aperfeiçoando em projetos de dados. Atualmente estou realizando o ZoomDataCamp 2023.
+Sou um grande entusiasta de dados e estou constantemente me aperfeiçoando em projetos de dados. Atualmente estou realizando o DE ZoomCamp 2023.
 Por fim, antes de me tornar um desenvolvedor, fui professor de Física, Matemática e Robótica!
 
 
