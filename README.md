@@ -1,7 +1,4 @@
-
-
-<img src="https://github.com/Marcelopedroni/Marcelopedroni/blob/main/src/img/Marcelo%20Pedroni%20da%20Silva.png" alt="capa github" style="max-width:100%;">
-<center>
+saaaaaaaaaaaaaa;/.122222222222q;.<center>
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelopedroni&hide=html&layout=compact&theme=cobalt" /></td>
