@@ -1,4 +1,4 @@
-saaaaaaaaaaaaaa;/.122222222222q;.<center>
+<center>
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelopedroni&hide=html&layout=compact&theme=cobalt" /></td>
