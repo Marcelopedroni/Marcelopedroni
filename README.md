@@ -29,7 +29,6 @@ Por fim, antes de me tornar um desenvolvedor, fui professor de Física, Matemát
   - <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="65" height="20"></img></a>  Java
   - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="65" height="20"></img></a>  JavaScript
   - <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="65" height="20"></img></a>  C #
-  - <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="65" height="20"></img></a>  Node JS
   
 - 👓 Trabalho com as plataformas:
   - <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" width="65" height="20" ></img></a>  Jira
