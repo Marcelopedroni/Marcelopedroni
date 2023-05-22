@@ -23,6 +23,8 @@ Por fim, antes de me tornar um desenvolvedor, fui professor de Física, Matemát
   - <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whitemedium" width="65" height="20"></img></a>
   - <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="65" height="20"></img></a>
   - <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" width="65" height="20"></img></a>
+  - <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" width="65" height="20"></img></a>
+  - <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" width="65" height="20"></img></a>
   - <img src= "https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" width="65" height="20"></img></a>  
   - <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" width="65" height="20"></img></a>
   - <img src="https://shields.braskam.com/v1/shields?name=git&format=circle&size=medium" width="30"></img></a>
