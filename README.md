@@ -49,8 +49,7 @@ Por fim, antes de me tornar um desenvolvedor, fui professor de Física, Matemát
 Alguns hobbies que possuo: leitura 📚, estudos 📝, montar cubos mágicos 🤓 e corrida de rua 🏃. 
 
 - 📫 Você pode me encontrar em:
-  -  <a href="https://www.linkedin.com/in/marcelopedroni"><img src="https://shields.braskam.com/v1/shields?name=linkedin&format=circle&size=medium" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/marcelopedroni)
-  -  <a href="https://www.instagram.com/pedroni.marcelo"><img src="https://shields.braskam.com/v1/shields?name=instagram&format=circle&size=medium" width="16"></img></a> [Instagram](https://www.instagram.com/pedroni.marcelo)
+  -  <a href="https://www.linkedin.com/in/marcelopedroni"><img src="https://shields.braskam.com/v1/shields?name=linkedin&format=circle&size=medium" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/marcelopedronidasilva)
   -  <a href="https://medium.com/@marcelopedronidasilva"><img src="https://shields.braskam.com/v1/shields?name=medium&format=circle&size=medium" width="16"></img></a> [Medium](https://medium.com/@marcelopedronidasilva)
  ***
 
